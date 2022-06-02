@@ -1,1 +1,5 @@
-Name details
+Name       : Prem Sai
+GitHub     : https://github.com/P-PremSai
+Hackerank  : Prem Sai
+leetcode   : PremSai52
+linkedIn   : 
